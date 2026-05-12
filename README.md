@@ -23,6 +23,14 @@ make
 ./minishell
 ```
 
+## My Contribution
+
+* Implemented command execution logic
+* Designed and implemented environment variable handling from scratch in C
+* Combined linked list and map-like data structures for efficient environment management
+* Worked on pipe handling and multi-process execution flow
+* Implemented inter-process communication using pipes and file descriptors
+
 ## Example
 
 ```bash
